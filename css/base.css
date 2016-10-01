@@ -1,0 +1,15 @@
+@import url("bootstrap.min.css");
+/*@import url("animate.min.css");*/
+@import url("menuzord.css");
+@import url("cubeportfolio.css");
+@import url("menuzord-animations.css");	
+@import url("style.css");
+@import url("font-awesome.min.css");
+@import url("grid.css");
+@import url("owl.carousel.css");
+@import url("shortcodes.css");
+@import url("jquery.fancybox.css");
+
+
+@import url("../rs-plugin/css/settings.css");	/* Main Revolution CSS */
+@import url("extralayers.css");					/* Navigtion Style for Revolution Slider */

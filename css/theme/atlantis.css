@@ -1,0 +1,12 @@
+/* Text Theme Color */
+a, h3, h1, .menuzord-menu > li.active > a, .menuzord-menu > li:hover > a, .heading-style, .cbp-l-caption-title, .testi-text h3, .contact-box i, .list-colored li i, .share-this .social-icons ul li a:hover, footer .social-icons ul li a:hover, .menuzord-menu > li > .megamenu ul li a:hover, .menuzord-menu ul.dropdown li a:hover, .team-social li a:hover, .about-quote blockquote::before{color:#8cc732;}
+
+
+/* Background Theme Color */
+#back-top a:hover, .owl-nav .owl-prev:hover, .owl-nav .owl-next:hover, .item-thumbs .hover-wrap .overlay-img, .porject-view:hover, .owl-controls .owl-dot.active span, .owl-controls.clickable .owl-dot:hover span, .we-love .inner h6, .my-btn, .my-btn.btn-orange:hover, .my-btn.btn-green:hover, .my-btn.btn-pink:hover, .my-btn.btn-blue:hover, .my-btn.btn-cyan:hover, .trending, .dropcap2, .theme-accordian .panel-default > .panel-heading, .theme-tab .nav-tabs > li.active > a, .theme-tab .nav-tabs > li.active > a:hover, .theme-tab .nav-tabs > li.active > a:focus, .pagination-wrap .pagination > .active > a, .pagination-wrap .pagination > .active > span, .pagination-wrap .pagination > .active > a:hover, .pagination-wrap .pagination > .active > span:hover, .pagination-wrap .pagination > .active > a:focus, .pagination-wrap .pagination > .active > span:focus, #contact_form .form-btn:hover, #comment-form .form-btn:hover, header, .link-btn, .theme-tab .nav > li > a:hover, .theme-tab .nav > li > a:focus, .tags a:hover{background-color:#8cc732;}
+
+
+/* Border Theme Color */
+.parallax-area .page-overlay{background-color:rgba(140, 199, 50, 0.9);}
+.menuzord-menu > li > .megamenu ul li:hover{border-bottom: 1px solid #8cc732;}
+.porject-view:hover, .tags a:hover{border:1px solid #8cc732}
